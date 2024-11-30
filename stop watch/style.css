@@ -1,0 +1,27 @@
+button{
+    font-family: sans-serif;
+    font-size: 1em;
+    color: whitesmoke;
+    background-color: grey;
+    border-radius: 20px;
+    border-color: aquamarine;
+}
+h1{
+    font-family: 'Times New Roman';
+    color: white;
+}
+#a{
+    border-width: 10;
+    border-style: outset;
+    border-color: white;
+    border-radius: 20px;
+    font-family: 'Times New Roman';
+    color: black;
+    padding: 3px;
+    text-align: center;
+    background: linear-gradient(to right, skyblue, lightgreen);
+    text-decoration: dotted;
+}
+#Time{
+    color: black;
+}
